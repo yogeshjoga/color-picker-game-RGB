@@ -1,0 +1,131 @@
+body{
+      border:20px solid #bdc3c7;
+      max-width: 700px;
+      width: 80%;
+      margin: 20px auto;
+      padding: 20px;
+      font-family:sans-serif;
+}
+
+
+p{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+
+.balu{
+    border-left: 5px solid  #bdc3c7;
+    padding-left: 5px;
+}
+
+
+p::first-letter{
+    font-weight: bold;
+    text-underline-position:left 20px;
+    color:#3498db;
+}
+
+
+.fist:hover{
+    font-size: 38px;
+    color:
+}
+
+
+h2{
+    margin-left: 20px;
+    text-transform:uppercase;
+    color:#3498db;
+    letter-spacing: 5px;
+    font-size: 19px;
+}
+
+
+h2:hover{
+    color: #bdc3c7;
+    font-size: 30px;
+}
+
+h1{
+    margin-left: 20px;
+    color: #2c3e50;
+    text-transform:uppercase;
+}
+
+
+h1:hover{
+  color:#3498db;
+  font-size: 40px;
+}
+  
+hr {
+    overflow: visible;
+    height: 30px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+
+
+
+hr:before {
+    display: block;
+    content: "";
+    height: 30px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0 0 1px 0;
+    border-radius: 20px;
+}
+
+
+
+.img{
+    max-width: 200px;
+    width: 40%;
+    image-resolution: 10px 10px;
+    border: 2px solid #3498db;
+    margin-left: 20px;
+}
+
+
+.imag:hover{
+    width:80%;
+}
+
+
+.submit{
+    background: #3498db;
+    border: 2px solid  #bdc3c7;
+}
+
+
+.submit:hover{
+    background: green;
+}
+
+.helpMode{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.copyright{
+  font-size: 10px;
+  tex
+}
+
+.copyright{
+  text-align: right;
+
+
+}

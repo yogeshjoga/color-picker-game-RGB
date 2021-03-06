@@ -1,0 +1,89 @@
+this is the RGB color picker game
+why you play this game?
+what is the use of the this game?
+how its work?
+
+ welcome to RGB color picker game it is the mixed combintions of colors in RED, GREEN and BLUE color are valuated in 0-256 
+ if the 10,30,60 = this means 10 = RED COLOR it indicated into red only.  30 = GREEN COLOR it incicated into green only. 60 = BLUE COLOR  it indicated into blue only.
+
+
+
+
+
+
+
+
+Stands for "Red Green Blue." RGB refers to three hues of light that can be mixed together to create different colors. Combining red, green, and blue light is the standard method of producing color images on screens, such as TVs, computer monitors, and smartphone screens.
+
+The RGB color model is an "additive" model. When 100% of each color is mixed together, it creates white light. When 0% of each color is combined, no light is generated, creating black. It is sometimes contrasted with CMYK (cyan, yellow, magenta, and black), the standard color palette used to create printed images. CMYK is a "subtractive" color model since the colors get darker as they are combined. Blending 100% of each color in the CMYK color model produces black, while 0% of each color results in white.
+
+How many colors can be created using RGB?
+The number of colors supported by RGB depends on how many possible values can be used for red, green, and blue. This is known as "color depth" and is measured in bits. The most common color depth is 24-bit color, also known as "true color." It supports eight bits for each of the three colors, or 24 bits total. This provides 28, or 256 possible values for red, green, and blue. 256 x 256 x 256 = 16,777,216 total possible colors in the "true color" palette.
+
+RGB Example
+When displaying a color image on a screen, each pixel has a specific RGB value. In 24-bit color, this value is between 0 and 255, where 0 is no color and 255 is full saturation). A purple pixel will have a lot of red and blue, but little to no green. For example, the following RGB value might be used to create purple:
+
+R: 132   (84 in hexadecimal)
+G: 17   (11 in hexadecimal)
+B: 170   (AA in hexadecimal)
+
+Since each color has 256 possible values, it can also be represented using two hexadecimal values (16 x 16), as shown above. The standard way to display an RGB value is to use the hexadecimal values for red, green, and blue, preceded by a number symbol, or hashtag. Therefore, the purple color above is defined in RGB as #8411AA.
+
+
+TechTerms - The Tech Terms Computer Dictionary
+This page contains a technical definition of RGB. It explains in computing terminology what RGB means and is one of many technical terms in the TechTerms dictionary.
+
+All definitions on the TechTerms website are written to be technically accurate but also easy to understand. If you find this RGB definition to be helpful, you can reference it using the citation links above. If you think a term should be updated or added to the TechTerms dictionary, please email TechTerms!
+
+
+Whether you’re a designer or you’re getting a design, it’s important to know the difference between the RGB and CMYK color modes so you can plan and optimize each stage of the design process. That goes beyond just knowing what the letters stand for—spoiler alert: they’re mostly colors!—because it’s more about knowing which one is the best for your project. Depending on where and how the final result is displayed, one color space is always better than the other.
+
+Never fear these acronyms again! We’re going to explain what the RGB and CMYK color modes are, how they work and when it’s best to use each.
+
+What is the difference between RGB and CMYK?
+—
+Both RGB and CMYK are modes for mixing color in graphic design. As a quick reference, the RGB color mode is best for digital work, while CMYK is used for print products. But to fully optimize your design, you need to understand the mechanisms behind each. Let’s dive deeper.
+
+What is RGB?
+—
+RGB (Red, Green and Blue) is the color space for digital images. Use the RGB color mode if your design is supposed to be displayed on any kind of screen.
+
+The RGB and additive mixing color mode
+RGB and additive mixing
+A light source within a device creates any color you need by mixing red, green and blue and varying their intensity. This is known as additive mixing: all colors begin as black darkness and then red, green and blue light is added on top of each other to brighten it and create the perfect pigment. When red, green and blue light is mixed together at equal intensity, they create pure white.
+
+Designers can control aspects like saturation, vibrancy and shading by modifying any of the three source colors. Because it’s done digitally, the designer manipulates how the light on the screen manifests to create the color they want.
+
+When to use RGB?
+If the end destination of your design project is a digital screen, use the RGB color mode. This would go for anything that involves computers, smartphones, tablets, TVs, cameras, etc.
+
+Turn to RGB if your design project involves:
+
+web & app design
+icons
+buttons
+graphics
+branding
+online logos
+online ads
+social media
+images for posts
+profile pictures
+profile backgrounds
+visual content
+video
+digital graphics
+infographics
+photographs for website, social media, or apps
+What are the best file formats for RGB?
+Image showing the different file formats for RGB images
+RGB file formats
+JPEGs are ideal for RGB files because they’re a nice middle-ground between file size and quality, and they’re readable almost anywhere.
+
+PSD is the standard source file for RGB documents, assuming all team members are working with Adobe Photoshop.
+
+PNGs support transparency and are better for graphics that need to be superimposed over others. Consider this file type for interface elements like buttons, icons or banners.
+
+GIFs capture motion, so if you’re using an animated element, such as a moving logo or a bouncing icon, this file type would be ideal.
+
+It’s best to avoid TIFF, EPS, PDF and BMP for RGB purposes. These formats are not compatible with most software, not to mention they can be unnecessarily large in terms of data.
