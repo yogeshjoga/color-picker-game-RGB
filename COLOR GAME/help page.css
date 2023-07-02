@@ -29,7 +29,7 @@ p::first-letter{
 
 .fist:hover{
     font-size: 38px;
-    color:
+    color: green;
 }
 
 
@@ -121,11 +121,6 @@ hr:before {
 
 .copyright{
   font-size: 10px;
-  tex
+  text-align: center;
 }
 
-.copyright{
-  text-align: right;
-
-
-}
